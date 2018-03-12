@@ -13,5 +13,5 @@
     "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
-  "postinstall": "cd src && mv config.example.js config.js"
+  "postinstall": "cd src && cp config.example.js config.js"
 }

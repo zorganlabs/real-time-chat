@@ -1,5 +1,6 @@
 const config = {
-  //firebase credentials here
+  	// config
+
 };
 
 export default config
